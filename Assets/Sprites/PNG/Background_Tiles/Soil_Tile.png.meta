@@ -1,7 +1,250 @@
 fileFormatVersion: 2
 guid: fd4123045a8d5924d94cf648472295ca
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 916676630738594077
+    second: Soil_Tile_0
+  - first:
+      213: 7598886749021225712
+    second: Soil_Tile_1
+  - first:
+      213: -5236404892695133944
+    second: Soil_Tile_2
+  - first:
+      213: -6707869711703408702
+    second: Soil_Tile_3
+  - first:
+      213: -6133705739990021698
+    second: Soil_Tile_4
+  - first:
+      213: -5276160015446817868
+    second: Soil_Tile_5
+  - first:
+      213: -619409616392088879
+    second: Soil_Tile_6
+  - first:
+      213: 975116056207745090
+    second: Soil_Tile_7
+  - first:
+      213: 3025375225827287073
+    second: Soil_Tile_8
+  - first:
+      213: -1670512270749077427
+    second: Soil_Tile_9
+  - first:
+      213: -3610264601585581121
+    second: Soil_Tile_10
+  - first:
+      213: 4357733661768907130
+    second: Soil_Tile_11
+  - first:
+      213: -6788270855274341436
+    second: Soil_Tile_12
+  - first:
+      213: 6361867757956359196
+    second: Soil_Tile_13
+  - first:
+      213: 3639188063413908093
+    second: Soil_Tile_14
+  - first:
+      213: 716578834500595584
+    second: Soil_Tile_15
+  - first:
+      213: -7383777687389721988
+    second: Soil_Tile_16
+  - first:
+      213: 6511443502244019607
+    second: Soil_Tile_17
+  - first:
+      213: -9037947987923510126
+    second: Soil_Tile_18
+  - first:
+      213: 7951285392968357117
+    second: Soil_Tile_19
+  - first:
+      213: -8222952208549649218
+    second: Soil_Tile_20
+  - first:
+      213: 2855897531000384360
+    second: Soil_Tile_21
+  - first:
+      213: 17906073673662895
+    second: Soil_Tile_22
+  - first:
+      213: 5442644607947942609
+    second: Soil_Tile_23
+  - first:
+      213: 6508517742196875573
+    second: Soil_Tile_24
+  - first:
+      213: 276750827184748122
+    second: Soil_Tile_25
+  - first:
+      213: -6640620570025323294
+    second: Soil_Tile_26
+  - first:
+      213: 2495565530821041451
+    second: Soil_Tile_27
+  - first:
+      213: 147004997456663915
+    second: Soil_Tile_28
+  - first:
+      213: -6447321951834567825
+    second: Soil_Tile_29
+  - first:
+      213: 5464920786555678366
+    second: Soil_Tile_30
+  - first:
+      213: 2434332523088220394
+    second: Soil_Tile_31
+  - first:
+      213: 3997417350216299960
+    second: Soil_Tile_32
+  - first:
+      213: -5305537586445212767
+    second: Soil_Tile_33
+  - first:
+      213: -1996161855066712822
+    second: Soil_Tile_34
+  - first:
+      213: 7670002495082739576
+    second: Soil_Tile_35
+  - first:
+      213: -8330408145856303862
+    second: Soil_Tile_36
+  - first:
+      213: -1017457131764183764
+    second: Soil_Tile_37
+  - first:
+      213: -3931142372400839201
+    second: Soil_Tile_38
+  - first:
+      213: 6400664734821066958
+    second: Soil_Tile_39
+  - first:
+      213: -4304025953627235571
+    second: Soil_Tile_40
+  - first:
+      213: 6834650302039237268
+    second: Soil_Tile_41
+  - first:
+      213: 8628673490499363340
+    second: Soil_Tile_42
+  - first:
+      213: -2738916424721041471
+    second: Soil_Tile_43
+  - first:
+      213: -1287537241386463122
+    second: Soil_Tile_44
+  - first:
+      213: 6535450345640903078
+    second: Soil_Tile_45
+  - first:
+      213: 1794322753661814747
+    second: Soil_Tile_46
+  - first:
+      213: 6983169750843113159
+    second: Soil_Tile_47
+  - first:
+      213: 4043899756570855540
+    second: Soil_Tile_48
+  - first:
+      213: 1225290476725153616
+    second: Soil_Tile_49
+  - first:
+      213: 716651134926036777
+    second: Soil_Tile_50
+  - first:
+      213: 5038878453549394981
+    second: Soil_Tile_51
+  - first:
+      213: -5095224506923681276
+    second: Soil_Tile_52
+  - first:
+      213: 5516348640091168296
+    second: Soil_Tile_53
+  - first:
+      213: -7040106207152188824
+    second: Soil_Tile_54
+  - first:
+      213: -5367053686601382883
+    second: Soil_Tile_55
+  - first:
+      213: 7403132039943743549
+    second: Soil_Tile_56
+  - first:
+      213: -5898930617527840169
+    second: Soil_Tile_57
+  - first:
+      213: 8549588183856148022
+    second: Soil_Tile_58
+  - first:
+      213: -942022181861076872
+    second: Soil_Tile_59
+  - first:
+      213: -306184674079045857
+    second: Soil_Tile_60
+  - first:
+      213: 4236514362547515782
+    second: Soil_Tile_61
+  - first:
+      213: -5358950550021388407
+    second: Soil_Tile_62
+  - first:
+      213: -2311686462153712086
+    second: Soil_Tile_63
+  - first:
+      213: -8412540372260874456
+    second: Soil_Tile_64
+  - first:
+      213: 2534883362413230617
+    second: Soil_Tile_65
+  - first:
+      213: 8584549221016106376
+    second: Soil_Tile_66
+  - first:
+      213: -8610773883866068637
+    second: Soil_Tile_67
+  - first:
+      213: -1011120789178379744
+    second: Soil_Tile_68
+  - first:
+      213: 2921689871551156872
+    second: Soil_Tile_69
+  - first:
+      213: -4625274728932084053
+    second: Soil_Tile_70
+  - first:
+      213: 2783915926457479611
+    second: Soil_Tile_71
+  - first:
+      213: 8812316815863538871
+    second: Soil_Tile_72
+  - first:
+      213: 3445257314619587814
+    second: Soil_Tile_73
+  - first:
+      213: 8438631233351672622
+    second: Soil_Tile_74
+  - first:
+      213: 8265975469748559690
+    second: Soil_Tile_75
+  - first:
+      213: -75532483095807978
+    second: Soil_Tile_76
+  - first:
+      213: 5607223393237707448
+    second: Soil_Tile_77
+  - first:
+      213: 9134927691901405438
+    second: Soil_Tile_78
+  - first:
+      213: -4519179616907784259
+    second: Soil_Tile_79
+  - first:
+      213: -6053107971774001091
+    second: Soil_Tile_80
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +275,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +284,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 55
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +311,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +332,1708 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Soil_Tile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d196315f980b8bc00800000000000000
+      internalID: 916676630738594077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 457
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f245d3dc3ba47960800000000000000
+      internalID: 7598886749021225712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 457
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8010ac66e7d8457b0800000000000000
+      internalID: -5236404892695133944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 457
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff05a790cd8e2a0800000000000000
+      internalID: -6707869711703408702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 457
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9ce139023b0eaa0800000000000000
+      internalID: -6133705739990021698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 457
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b34c259b6057c6b0800000000000000
+      internalID: -5276160015446817868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 457
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d21d745c3a6767f0800000000000000
+      internalID: -619409616392088879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 457
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ea0103ee488d00800000000000000
+      internalID: 975116056207745090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 457
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120e3bf1dba4cf920800000000000000
+      internalID: 3025375225827287073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40f115c0f521d8e0800000000000000
+      internalID: -1670512270749077427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 402
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3035d0973c5edc0800000000000000
+      internalID: -3610264601585581121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 402
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a797f775da7c97c30800000000000000
+      internalID: 4357733661768907130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 402
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb5c387f973bc1a0800000000000000
+      internalID: -6788270855274341436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 402
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14effce405e94850800000000000000
+      internalID: 6361867757956359196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 402
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b0ae234ef08230800000000000000
+      internalID: 3639188063413908093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 402
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fa8f347acc1f900800000000000000
+      internalID: 716578834500595584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 402
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a2ea2705d878990800000000000000
+      internalID: -7383777687389721988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 402
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79db74ebd5b4d5a50800000000000000
+      internalID: 6511443502244019607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cdc59a032c29280800000000000000
+      internalID: -9037947987923510126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 347
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df491abefe3a85e60800000000000000
+      internalID: 7951285392968357117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 347
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4626c888432ed80800000000000000
+      internalID: -8222952208549649218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 347
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b613a5caf22a720800000000000000
+      internalID: 2855897531000384360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 347
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa104a8aa7d9f3000800000000000000
+      internalID: 17906073673662895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 347
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daae6f3f68288b40800000000000000
+      internalID: 5442644607947942609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 347
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531e8f52766e25a50800000000000000
+      internalID: 6508517742196875573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 347
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5674a9396737d300800000000000000
+      internalID: 276750827184748122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 347
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e41d7b66c6c7d3a0800000000000000
+      internalID: -6640620570025323294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d1c42d0a702a220800000000000000
+      internalID: 2495565530821041451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 292
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b659c9d24444a0200800000000000000
+      internalID: 147004997456663915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 292
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b825c18d28686a0800000000000000
+      internalID: -6447321951834567825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 292
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eac40408c47db40800000000000000
+      internalID: 5464920786555678366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 292
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae09ad7388c78c120800000000000000
+      internalID: 2434332523088220394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 292
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b530aa96eda97730800000000000000
+      internalID: 3997417350216299960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 292
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a32371dca1fe56b0800000000000000
+      internalID: -5305537586445212767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 292
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0550927e553c44e0800000000000000
+      internalID: -1996161855066712822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 292
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87734c1c1a2517a60800000000000000
+      internalID: 7670002495082739576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de6308de1746c80800000000000000
+      internalID: -8330408145856303862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d020f112441e1f0800000000000000
+      internalID: -1017457131764183764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5cf8327d6c179c0800000000000000
+      internalID: -3931142372400839201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec821650aaab3d850800000000000000
+      internalID: 6400664734821066958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b9cf9e2370544c0800000000000000
+      internalID: -4304025953627235571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a019fc3e89de50800000000000000
+      internalID: 6834650302039237268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c026b0ca2d43fb770800000000000000
+      internalID: 8628673490499363340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f40be50a6df9d0800000000000000
+      internalID: -2738916424721041471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60d21c53bfb12ee0800000000000000
+      internalID: -1287537241386463122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1412b867592ba50800000000000000
+      internalID: 6535450345640903078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 182
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c968a907b6e810800000000000000
+      internalID: 1794322753661814747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 182
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceb145d3e339e060800000000000000
+      internalID: 6983169750843113159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 182
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478c1b13761de1830800000000000000
+      internalID: 4043899756570855540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_49
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 182
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f2fdb523b110110800000000000000
+      internalID: 1225290476725153616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 182
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f9525096e02f900800000000000000
+      internalID: 716651134926036777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 182
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c6e22a141bde540800000000000000
+      internalID: 5038878453549394981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_52
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 182
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40af2fd7e402a49b0800000000000000
+      internalID: -5095224506923681276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_53
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 182
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed7dd7cd10e8c40800000000000000
+      internalID: 5516348640091168296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862dba564b48c4e90800000000000000
+      internalID: -7040106207152188824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d148caf9b156485b0800000000000000
+      internalID: -5367053686601382883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_56
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 127
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38e82aed553db660800000000000000
+      internalID: 7403132039943743549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 127
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752d3937bd9c22ea0800000000000000
+      internalID: -5898930617527840169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 127
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6f92d72d36a670800000000000000
+      internalID: 8549588183856148022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_59
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 127
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d1af01d34de2f0800000000000000
+      internalID: -942022181861076872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_60
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 127
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1789d149a630cbf0800000000000000
+      internalID: -306184674079045857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_61
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 127
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6813c71ed5f1bca30800000000000000
+      internalID: 4236514362547515782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_62
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 127
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98747112ede21a5b0800000000000000
+      internalID: -5358950550021388407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e9f37196d3befd0800000000000000
+      internalID: -2311686462153712086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_64
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 72
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82712cc5a17a04b80800000000000000
+      internalID: -8412540372260874456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 72
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a30bbdcf6bd2320800000000000000
+      internalID: 2534883362413230617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 72
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885758b9802722770800000000000000
+      internalID: 8584549221016106376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 72
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369c3f246c2608880800000000000000
+      internalID: -8610773883866068637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 72
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0229208dff6c7f1f0800000000000000
+      internalID: -1011120789178379744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_69
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 72
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d9a9557deb8820800000000000000
+      internalID: 2921689871551156872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_70
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 72
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba67969c329bfcfb0800000000000000
+      internalID: -4625274728932084053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_71
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 72
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1fc0909c472a620800000000000000
+      internalID: 2783915926457479611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46fb15473ab4a70800000000000000
+      internalID: 8812316815863538871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 17
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec77bd164300df20800000000000000
+      internalID: 3445257314619587814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 17
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23617e956a0c1570800000000000000
+      internalID: 8438631233351672622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 17
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f947c05e4a6b270800000000000000
+      internalID: 8265975469748559690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61832185b97a3fef0800000000000000
+      internalID: -75532483095807978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_77
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 17
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa132c7fbd0dd40800000000000000
+      internalID: 5607223393237707448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_78
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 17
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef889ac3658c5ce70800000000000000
+      internalID: 9134927691901405438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 17
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf86020516a841c0800000000000000
+      internalID: -4519179616907784259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soil_Tile_80
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 17
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d305353de5a0ffba0800000000000000
+      internalID: -6053107971774001091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
