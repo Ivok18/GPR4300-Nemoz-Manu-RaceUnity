@@ -10,6 +10,7 @@ public class Portal : MonoBehaviour
         {
             //tp
             Debug.Log("cool");
+            Debug.Log("commit");
         }
     }
 }
