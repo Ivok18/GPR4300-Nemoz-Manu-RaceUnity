@@ -5,6 +5,8 @@ using UnityEngine;
 public class RaceManager : MonoBehaviour
 {
     [SerializeField] public GameObject player;
+    [SerializeField] public GameObject playerStartPoint;
+    [SerializeField] public GameObject tpPoint;
     [SerializeField] public Portal portal;
 
     // Update is called once per frame
