@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerInputs : MonoBehaviour
 {
     [SerializeField] public bool toTheLeft, toTheRight, toUp, toDown = false;
+ 
 
     // Update is called once per frame
     void FixedUpdate()
@@ -15,6 +16,7 @@ public class PlayerInputs : MonoBehaviour
             toTheRight = false;
             toUp = false;
             toDown = false;
+
         }
 
         else if(Input.GetKey(KeyCode.RightArrow))
@@ -23,6 +25,7 @@ public class PlayerInputs : MonoBehaviour
             toTheRight = true;
             toUp = false;
             toDown = false;
+
 
         }
 
@@ -33,6 +36,8 @@ public class PlayerInputs : MonoBehaviour
             toUp = true;
             toDown = false;
 
+         
+
         }
 
         else if (Input.GetKey(KeyCode.DownArrow))
@@ -41,6 +46,8 @@ public class PlayerInputs : MonoBehaviour
             toTheRight = false;
             toUp = false;
             toDown = true;
+
+           
         }
     }
 }
