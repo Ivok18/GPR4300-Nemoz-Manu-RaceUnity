@@ -4,17 +4,19 @@ using UnityEngine;
 
 public class PlayerDatas : MonoBehaviour
 {
-    [SerializeField] public int nbOfCollisionWithMap = 0;
+    [SerializeField] public int nbOfCollisionWithBorders = 0;
     [SerializeField] public RaceManager raceManager;
-    [SerializeField] public bool respawn = false;
+    [SerializeField] public bool respawnAtStartPoint = false;
     [SerializeField] public bool canTp = false;
+    [SerializeField] public bool enableSpeedRevovery = false;
+    [SerializeField] public bool slowed = false;
 
     private void Update()
     {
-        if(respawn)
+        if(respawnAtStartPoint)
         {
             transform.position = raceManager.playerStartPoint.transform.position;
-            respawn = false;
+            respawnAtStartPoint = false;
         }
 
         if(canTp)
@@ -27,12 +29,26 @@ public class PlayerDatas : MonoBehaviour
             _playerInputs.toTheRight = false;
             canTp = false;
         }
+
+        if(slowed)
+        {
+            if (!GameObject.FindGameObjectWithTag("obstacle"))
+            {
+                slowed = false;
+                PlayerMovement _playerMovement = GetComponent<PlayerMovement>();
+                _playerMovement.moveSpeed *= 2;
+            }
+        }
+
+       
+       
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.transform.CompareTag("border") || collision.transform.CompareTag("obstacle"))
+        if(collision.transform.CompareTag("border"))
         {
-            nbOfCollisionWithMap++;
+            nbOfCollisionWithBorders++;
+            
         }
 
     }

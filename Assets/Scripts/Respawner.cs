@@ -9,7 +9,7 @@ public class Respawner : MonoBehaviour
         if(collision.transform.CompareTag("Player"))
         {
             PlayerDatas _playerDatas = collision.gameObject.GetComponent<PlayerDatas>();
-            _playerDatas.respawn = true;
+            _playerDatas.respawnAtStartPoint = true;
         }
     }
 }

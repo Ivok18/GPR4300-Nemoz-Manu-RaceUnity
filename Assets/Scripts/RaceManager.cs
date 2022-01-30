@@ -8,12 +8,17 @@ public class RaceManager : MonoBehaviour
     [SerializeField] public GameObject playerStartPoint;
     [SerializeField] public GameObject tpPoint;
     [SerializeField] public Portal portal;
+    
 
+    private void Start()
+    {
+        player.transform.position = playerStartPoint.transform.position;
+    }
     // Update is called once per frame
     void Update()
     {
         //TODO -> vérification de cette condition à la fin de chaque tour
-        if(player.GetComponent<PlayerDatas>().nbOfCollisionWithMap > 10)
+        if(player.GetComponent<PlayerDatas>().nbOfCollisionWithBorders > 10)
         {
             portal.gameObject.SetActive(true);
         }
