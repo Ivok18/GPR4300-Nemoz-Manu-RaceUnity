@@ -6,6 +6,7 @@ TagManager:
   tags:
   - border
   - respawner
+  - obstacle
   layers:
   - Default
   - TransparentFX
