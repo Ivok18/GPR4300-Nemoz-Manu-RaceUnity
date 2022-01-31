@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class Slower : MonoBehaviour
 {
+    private void Start()
+    {
+        Destroy(gameObject, 4);
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.transform.CompareTag("Player"))
