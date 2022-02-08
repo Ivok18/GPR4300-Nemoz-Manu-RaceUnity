@@ -15,10 +15,7 @@ public class Slower : MonoBehaviour
         {
             Destroy(gameObject, 2);
             PlayerMovement _playerMovement = collision.gameObject.GetComponent<PlayerMovement>();
-            PlayerDatas _playerDatas = collision.gameObject.GetComponent<PlayerDatas>();
             _playerMovement.moveSpeed = _playerMovement.moveSpeed / 2;
-            _playerDatas.slowed = true;
         }
     }
-    
 }

@@ -11,6 +11,13 @@ public class PlayerDatas : MonoBehaviour
     [SerializeField] public bool enableSpeedRevovery = false;
     [SerializeField] public bool slowed = false;
 
+    PlayerMovement movement;
+
+    private void Start()
+    {
+        movement = GetComponent<PlayerMovement>();
+    }
+
     private void Update()
     {
         if(respawnAtStartPoint)
@@ -29,29 +36,22 @@ public class PlayerDatas : MonoBehaviour
             _playerInputs.toTheRight = false;
             canTp = false;
         }
-
-        if(slowed)
-        {
-            if (!GameObject.FindGameObjectWithTag("obstacle"))
-            {
-                slowed = false;
-                PlayerMovement _playerMovement = GetComponent<PlayerMovement>();
-                _playerMovement.moveSpeed *= 2;
-            }
-        }
-
-       
-       
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.transform.CompareTag("border"))
         {
             nbOfCollisionWithBorders++;
-            
+            movement.moveSpeed /= 1.5f;
         }
-
     }
 
-    
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.transform.CompareTag("border"))
+        {
+            nbOfCollisionWithBorders++;
+            movement.moveSpeed /= 1.05f;
+        }
+    }
 }

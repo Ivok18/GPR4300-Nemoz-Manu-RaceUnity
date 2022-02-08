@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField] public float moveSpeed;
+    public float moveSpeed;
+    [SerializeField] float MaxSpeed = 200.0f;
+    [SerializeField] float acceleration = 10.0f;
     [SerializeField] Vector2 movement;
 
     private Rigidbody2D rb;
@@ -47,6 +49,16 @@ public class PlayerMovement : MonoBehaviour
     
         movement.Normalize();
 
+        //Increase player speed
+        if (moveSpeed < MaxSpeed / 2)
+            moveSpeed += Time.fixedDeltaTime * acceleration * 4;
+        else
+            moveSpeed += Time.fixedDeltaTime * acceleration;
+
+        if (moveSpeed >= MaxSpeed)
+            moveSpeed = MaxSpeed;
+
+        //Change the rigibody's velocity
         rb.velocity = movement * moveSpeed * Time.deltaTime;
     }
 }
